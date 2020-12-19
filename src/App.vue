@@ -75,11 +75,15 @@ h1, h3 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+main {
+  margin-bottom: 6rem;
+}
 footer {
   position: absolute;
   bottom: 0;
   padding: 3rem;
   text-align: center;
+  background: white;
   }
 .container-sm {
   max-width: 700px;
