@@ -79,7 +79,7 @@ main {
   margin-bottom: 10rem;
 }
 footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   padding: 3rem;
   text-align: center;
