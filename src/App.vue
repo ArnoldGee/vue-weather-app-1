@@ -76,7 +76,7 @@ h1, h3 {
   margin-bottom: 1rem;
 }
 main {
-  margin-bottom: 6rem;
+  margin-bottom: 10rem;
 }
 footer {
   position: absolute;
